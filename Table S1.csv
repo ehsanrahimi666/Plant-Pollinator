@@ -1,0 +1,173 @@
+files,Order,Family,Functional Groups
+M_PL_054.csv,Araneae,Araneidae,Spider
+M_PL_054.csv,Araneae,Theridiidae,Spider
+M_PL_044.csv,Blattodea,Ectobiidae,Cockroach
+M_PL_057.csv,Coleoptera, Languriidae,Beetle
+M_PL_044.csv,Coleoptera,Aderidae,Beetle
+M_PL_044.csv,Coleoptera,Anthribidae,Beetle
+M_PL_055.csv,Coleoptera,Attelabidae,Beetle
+M_PL_056.csv,Coleoptera,Biphyllidae,Beetle
+M_PL_056.csv,Coleoptera,Byturidae,Beetle
+M_PL_004.csv,Coleoptera,Cantharidae,Beetle
+M_PL_044.csv,Coleoptera,Carabidae,Beetle
+M_PL_004.csv,Coleoptera,Cerambycidae,Beetle
+M_PL_044.csv,Coleoptera,Chrysomelidae,Beetle
+M_PL_044.csv,Coleoptera,Cleridae,Beetle
+M_PL_044.csv,Coleoptera,Coccinellidae,Beetle
+M_PL_056.csv,Coleoptera,Cryptophagidae,Beetle
+M_PL_004.csv,Coleoptera,Curculionidae,Beetle
+M_PL_060_02.csv,Coleoptera,Dasytidae,Beetle
+M_PL_054.csv,Coleoptera,Dermestidae,Beetle
+M_PL_057.csv,Coleoptera,Elateridae,Beetle
+M_PL_055.csv,Coleoptera,Erotylidae,Beetle
+M_PL_057.csv,Coleoptera,Lampyridae,Beetle
+M_PL_055.csv,Coleoptera,Latridiidae,Beetle
+M_PL_006.csv,Coleoptera,Malachiidae,Beetle
+M_PL_057.csv,Coleoptera,Megalopodidae,Beetle
+M_PL_058.csv,Coleoptera,Meloidae,Beetle
+M_PL_054.csv,Coleoptera,Melyridae,Beetle
+M_PL_044.csv,Coleoptera,Mordellidae,Beetle
+M_PL_040.csv,Coleoptera,Nitidulidae,Beetle
+M_PL_044.csv,Coleoptera,Oedemeridae,Beetle
+M_PL_004.csv,Coleoptera,Orsodacnidae,Beetle
+M_PL_044.csv,Coleoptera,Phalacridae,Beetle
+M_PL_013.csv,Coleoptera,Scarabaeidae,Beetle
+M_PL_033.csv,Coleoptera,Scirtidae,Beetle
+M_PL_056.csv,Coleoptera,Scraptiidae,Beetle
+M_PL_060_22.csv,Coleoptera,Silvanidae,Beetle
+M_PL_004.csv,Coleoptera,Staphylinidae,Beetle
+M_PL_044.csv,Coleoptera,Tenebrionidae,Beetle
+M_PL_044.csv,Dermaptera,Anisolabididae,Earwig
+M_PL_057.csv,Diptera,Acroceridae,True Fly
+M_PL_060_14.csv,Diptera,Agromyzidae,True Fly
+M_PL_060_11.csv,Diptera,Anthomyiidae,True Fly
+M_PL_044.csv,Diptera,Asilidae,True Fly
+M_PL_019.csv,Diptera,Bibionidae,True Fly
+M_PL_004.csv,Diptera,Bombyliidae,True Fly
+M_PL_044.csv,Diptera,Brachystomatidae,True Fly
+M_PL_006.csv,Diptera,Calliphoridae,True Fly
+M_PL_061_13.csv,Diptera,Ceratopogonidae,True Fly
+M_PL_060_01.csv,Diptera,Chironomidae,True Fly
+M_PL_019.csv,Diptera,Chloropidae,True Fly
+M_PL_057.csv,Diptera,Conopidae,True Fly
+M_PL_044.csv,Diptera,Culicidae,True Fly
+M_PL_061_09.csv,Diptera,Dolichopodidae,True Fly
+M_PL_061_47.csv,Diptera,Drosophilidae,True Fly
+M_PL_006.csv,Diptera,Empididae,True Fly
+M_PL_060_09.csv,Diptera,Ephydridae,True Fly
+M_PL_004.csv,Diptera,Fanniidae,True Fly
+M_PL_019.csv,Diptera,Heleomyzidae,True Fly
+M_PL_060_01.csv,Diptera,Keroplatidae,True Fly
+M_PL_019.csv,Diptera,Lauxaniidae,True Fly
+M_PL_060_06.csv,Diptera,Limoniidae,True Fly
+M_PL_033.csv,Diptera,Melanostoma,True Fly
+M_PL_004.csv,Diptera,Milichiidae,True Fly
+M_PL_004.csv,Diptera,Muscidae,True Fly
+M_PL_051.csv,Diptera,Nemestrinidae,True Fly
+M_PL_055.csv,Diptera,Pipunculidae,True Fly
+M_PL_019.csv,Diptera,Platystomatidae,True Fly
+M_PL_007.csv,Diptera,Polleniidae,True Fly
+M_PL_019.csv,Diptera,Rhagionidae,True Fly
+M_PL_004.csv,Diptera,Sarcophagidae,True Fly
+M_PL_006.csv,Diptera,Scathophagidae,True Fly
+M_PL_060_15.csv,Diptera,Scatopsidae,True Fly
+M_PL_006.csv,Diptera,Sciomyzidae,True Fly
+M_PL_060_12.csv,Diptera,Sepsidae,True Fly
+M_PL_060_24.csv,Diptera,Simuliidae,True Fly
+M_PL_051.csv,Diptera,Sphaeroceridae,True Fly
+M_PL_004.csv,Diptera,Syrphidae,True Fly
+M_PL_019.csv,Diptera,Tabanidae,True Fly
+M_PL_006.csv,Diptera,Tachinidae,True Fly
+M_PL_013.csv,Diptera,Tephritidae,True Fly
+M_PL_055.csv,Diptera,Tipulidae,True Fly
+M_PL_061_39.csv,Diptera,Ulidiidae,True Fly
+M_PL_004.csv,Ephemeroptera,Ephemerellidae,Mayfly
+M_PL_044.csv,Hemiptera,Acanthosomatidae,True bug
+M_PL_044.csv,Hemiptera,Achilidae,True bug
+M_PL_054.csv,Hemiptera,Alydidae,True bug
+M_PL_044.csv,Hemiptera,Aphididae,True bug
+M_PL_055.csv,Hemiptera,Aphrophoridae,True bug
+M_PL_044.csv,Hemiptera,Carsidaridae,True bug
+M_PL_044.csv,Hemiptera,Cercopidae,True bug
+M_PL_044.csv,Hemiptera,Cixiidae,True bug
+M_PL_057.csv,Hemiptera,Coreidae,True bug
+M_PL_055.csv,Hemiptera,Cydnidae,True bug
+M_PL_044.csv,Hemiptera,Derbidae,True bug
+M_PL_044.csv,Hemiptera,Flatidae,True bug
+M_PL_057.csv,Hemiptera,Geocoridae,True bug
+M_PL_055.csv,Hemiptera,Hydrometridae,True bug
+M_PL_013.csv,Hemiptera,Lygaeidae,True bug
+M_PL_044.csv,Hemiptera,Membracidae,True bug
+M_PL_004.csv,Hemiptera,Miridae,True bug
+M_PL_057.csv,Hemiptera,Nabidae,True bug
+M_PL_060_08.csv,Hemiptera,Nogodinidae,True bug
+M_PL_044.csv,Hemiptera,Pentatomidae,True bug
+M_PL_055.csv,Hemiptera,Plataspidae,True bug
+M_PL_060_14.csv,Hemiptera,Psyllidae,True bug
+M_PL_044.csv,Hemiptera,Pyrrhocoridae,True bug
+M_PL_055.csv,Hemiptera,Reduviidae,True bug
+M_PL_055.csv,Hemiptera,Rhopalidae,True bug
+M_PL_044.csv,Hemiptera,Rhyparochromidae,True bug
+M_PL_044.csv,Hemiptera,Ricaniidae,True bug
+M_PL_044.csv,Hemiptera,Triozidae,True bug
+M_PL_044.csv,Hemiptera,Tropiduchidae,True bug
+M_PL_040.csv,Hymenoptera,Formicidae,Ant
+M_PL_004.csv,Hymenoptera,Andrenidae,Bee
+M_PL_004.csv,Hymenoptera,Apidae,Bee
+M_PL_004.csv,Hymenoptera,Colletidae,Bee
+M_PL_004.csv,Hymenoptera,Halictidae,Bee
+M_PL_004.csv,Hymenoptera,Megachilidae,Bee
+M_PL_057.csv,Hymenoptera,Melittidae,Bee
+M_PL_055.csv,Hymenoptera,Braconidae,Parasitoid wasp
+M_PL_054.csv,Hymenoptera,Chalcididae,Parasitoid wasp
+M_PL_056.csv,Hymenoptera,Eulophidae,Parasitoid wasp
+M_PL_013.csv,Hymenoptera,Argidae,Sawfly
+M_PL_007.csv,Hymenoptera,Cephidae,Sawfly
+M_PL_057.csv,Hymenoptera,Cimbicidae,Sawfly
+M_PL_057.csv,Hymenoptera,Pamphiliidae,Sawfly
+M_PL_044.csv,Hymenoptera,Tenthredinidae,Sawfly
+M_PL_013.csv,Hymenoptera,Pompilidae,Spider wasp
+M_PL_061_33.csv,Hymenoptera,Crabronidae,Wasp
+M_PL_058.csv,Hymenoptera,Heloridae,Wasp
+M_PL_060_04.csv,Hymenoptera,Ichneumonidae,Wasp
+M_PL_060_10.csv,Hymenoptera,Pteromalidae,Wasp
+M_PL_044.csv,Hymenoptera,Scoliidae,Wasp
+M_PL_040.csv,Hymenoptera,Sphecidae,Wasp
+M_PL_013.csv,Hymenoptera,Tiphiidae,Wasp
+M_PL_004.csv,Hymenoptera,Vespidae,Wasp
+M_PL_004.csv,Lepidoptera,Hesperiidae,Butterfly
+M_PL_004.csv,Lepidoptera,Lycaenidae,Butterfly
+M_PL_006.csv,Lepidoptera,Nymphalidae,Butterfly
+M_PL_040.csv,Lepidoptera,Papilionidae,Butterfly
+M_PL_004.csv,Lepidoptera,Pieridae,Butterfly
+M_PL_057.csv,Lepidoptera,Callidulidae,Moth
+M_PL_044.csv,Lepidoptera,Choreutidae,Moth
+M_PL_044.csv,Lepidoptera,Crambidae,Moth
+M_PL_056.csv,Lepidoptera,Epicopeiidae,Moth
+M_PL_004.csv,Lepidoptera,Erebidae,Moth
+M_PL_057.csv,Lepidoptera,Gelechiidae,Moth
+M_PL_057.csv,Lepidoptera,Geometridae,Moth
+M_PL_056.csv,Lepidoptera,Glyphipterigidae,Moth
+M_PL_044.csv,Lepidoptera,Gracillariidae,Moth
+M_PL_060_04.csv,Lepidoptera,Lecithoceridae,Moth
+M_PL_006.csv,Lepidoptera,Noctuidae,Moth
+M_PL_060_08.csv,Lepidoptera,Nolidae,Moth
+M_PL_056.csv,Lepidoptera,Pterophoridae,Moth
+M_PL_057.csv,Lepidoptera,Pyralidae,Moth
+M_PL_044.csv,Lepidoptera,Sphingidae,Moth
+M_PL_006.csv,Lepidoptera,Zygaenidae,Moth
+M_PL_056.csv,Mecoptera,Panorpodidae,Scorpionfly
+M_PL_044.csv,Megaloptera,Sialidae,Alderfly
+M_PL_044.csv,Neuroptera,Chrysopidae,Lacewing
+M_PL_044.csv,Neuroptera,Hemerobiidae,Lacewing
+M_PL_055.csv,Odonata,Coenagrionidae,Damselfly
+M_PL_044.csv,Orthoptera,Mogoplistidae,Cricket
+M_PL_055.csv,Orthoptera,Trigonidiidae,Cricket
+M_PL_055.csv,Orthoptera,Tettigoniidae,Katydid
+M_PL_044.csv,Psocodea,Caeciliusidae,Barklice
+M_PL_044.csv,Psocodea,Dasydemellidae,Barklice
+M_PL_044.csv,Psocodea,Lachesillidae,Barklice
+M_PL_044.csv,Psocodea,Psocidae,Barklice
+M_PL_044.csv,Psocodea,Stenopsocidae,Barklice
+M_PL_044.csv,Thysanoptera,Phlaeothripidae,Thrip
+M_PL_044.csv,Trichoptera,Hydropsychidae,Caddisfly
